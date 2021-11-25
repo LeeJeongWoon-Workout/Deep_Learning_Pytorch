@@ -1,0 +1,7 @@
+SAVEPATH = '/content/drive/MyDrive/Colab Notebooks/deeplearning'
+WEIGHTDECAY = 1e-4
+MOMENTUM = 0.9
+BATCHSIZE = 256
+LR = 0.01
+EPOCHS = 100
+PRINTFREQ = 20
